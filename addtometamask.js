@@ -80,7 +80,7 @@ function addToWallet(type) {
                     params: {
                         'type': 'ERC20',
                         'options': {
-                            'address': '0x5FB33B065Dc1D42192653FfD492235B9dA35Fe59',
+                            'address': '0xDB2Bb0A1481FCF0df33720d80A660dD4d060B6c0',
                             'symbol': 'CRONEX',
                             'decimals': '18',
                             'image': 'https://github.com/cronexfinance/cronex-token/raw/main/2022-05-15%2020.51.25.jpg',
